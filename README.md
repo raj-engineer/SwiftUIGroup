@@ -1,6 +1,6 @@
-# SwiftUIGroup
+# SwiftUIGroup - https://youtu.be/-LEkVoBcNV8
 
-Group In SwiftUI | SwiftUI for beginners | https://youtu.be/-LEkVoBcNV8
+Group In SwiftUI | SwiftUI for beginners | 
 
 Simple Demo of Group , How to use a group in iOS using SwiftUI
 
